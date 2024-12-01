@@ -1,0 +1,11 @@
+{
+  "name": "state_machine_library",
+  "version": "1.0.0",
+  "description": "implementing a simple state machine library in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suleiman hamza",
+  "license": "ISC"
+}
